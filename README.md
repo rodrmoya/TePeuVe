@@ -1,2 +1,2 @@
 # TePeuVe
-POS application
+POS application written in Blazor WASM
